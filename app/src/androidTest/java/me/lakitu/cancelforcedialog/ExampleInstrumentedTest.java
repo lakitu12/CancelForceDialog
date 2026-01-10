@@ -1,4 +1,4 @@
-package me.lakitu.canceldialog;
+package me.lakitu.cancelforcedialog;
 
 import android.content.Context;
 
