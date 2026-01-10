@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace 'me.lakitu.canceldialog'
+    namespace 'me.lakitu.cancelforcedialog'
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId "me.lakitu.canceldialog"
+        applicationId "me.lakitu.cancelforcedialog"
         minSdk 24
         targetSdk 36
         versionCode 1
